@@ -58,8 +58,6 @@ yarn dev
 1. Click the "Delete" button next to the todo text you want to delete.
 2. The todo will be removed from the list.
 
-Make sure to provide clear and concise instructions on how to use the app, such as adding, checking, and deleting todo lists. This will help users understand how the app works.
-
 ## Contributing
 
 Contributions to this project are welcome. To contribute, follow these steps:
