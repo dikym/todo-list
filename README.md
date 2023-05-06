@@ -61,8 +61,8 @@ Contributions to this project are welcome. To contribute, follow these steps:
 
 ## Credits
 
-This app was created by [Your Name Here].
+This app was created by dikym.
 
 ## Contact
 
-If you have any questions or suggestions, please feel free to contact me at [your email address here].
+If you have any questions or suggestions, please feel free to contact me at 890dikymaulidan@gmail.com.
