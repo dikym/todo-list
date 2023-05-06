@@ -1,6 +1,6 @@
 # React Todo List App
 
-This is a simple todo list application built using React and Vite. The app allows users to add, edit, and delete tasks on their to-do list.
+This is a simple todo list application built using React and Vite. The app allows users to add, check, and delete tasks on their to-do list.
 
 ## Installation
 
