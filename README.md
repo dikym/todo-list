@@ -42,12 +42,23 @@ yarn dev
 
 ## Usage
 
-To use the app, follow these steps:
+### Add Todo
 
-1. Enter a task in the input field at the top of the page
-2. Press the "Add" button or hit enter to add the task to your list
-3. To edit a task, click on the task and make your changes in the input field that appears
-4. To delete a task, hover over the task and click the delete icon that appears on the right-hand side
+1. Type the todo text in the input box.
+2. Click the "Add" button or press the "Enter" key on your keyboard.
+3. The new todo will be added to the list below the input box.
+
+### Check Todo
+
+1. Click the box next to the todo text you want to check.
+2. The todo will be checked and the text will be greyed out.
+
+### Delete Todo
+
+1. Click the "Delete" button next to the todo text you want to delete.
+2. The todo will be removed from the list.
+
+Make sure to provide clear and concise instructions on how to use the app, such as adding, checking, and deleting todo lists. This will help users understand how the app works.
 
 ## Contributing
 
