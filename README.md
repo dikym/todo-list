@@ -70,7 +70,7 @@ Contributions to this project are welcome. To contribute, follow these steps:
 
 ## Credits
 
-This app was created by dikym.
+This app was created by [@dikym](https://github.com/dikym).
 
 ## Contact
 
